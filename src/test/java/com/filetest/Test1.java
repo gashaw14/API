@@ -31,4 +31,8 @@ public void ValidateTest() {
 public void ValidateTest2(){
 	System.out.println("update for pull");
 }
+@Test
+public void ValidateTest3() {
+	System.out.println("test branch");
+}
 }
