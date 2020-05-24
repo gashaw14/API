@@ -27,4 +27,8 @@ public void ValidateFileformat() throws IOException {
 public void ValidateTest() {
 	System.out.println("hello");
 }
+@Test
+public void ValidateTest2(){
+	System.out.println("update for pull");
+}
 }
