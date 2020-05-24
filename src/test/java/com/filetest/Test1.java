@@ -22,4 +22,9 @@ public void ValidateFileformat() throws IOException {
 
 	
 }
+
+@Test
+public void ValidateTest() {
+	System.out.println("hello");
+}
 }
