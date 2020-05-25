@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47" started-at="2018-11-22T21:04:33Z" finished-at="2018-11-22T21:04:33Z">
+  <suite name="Default suite" duration-ms="3463" started-at="2020-05-25T02:05:11Z" finished-at="2020-05-25T02:05:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47" started-at="2018-11-22T21:04:33Z" finished-at="2018-11-22T21:04:33Z">
-      <class name="com.filetest.Test1">
-        <test-method status="PASS" signature="ValidateFileformat()[pri:0, instance:com.filetest.Test1@13c78c0b]" name="ValidateFileformat" duration-ms="16" started-at="2018-11-22T15:04:33Z" finished-at="2018-11-22T15:04:33Z">
+    <test name="Default test" duration-ms="3463" started-at="2020-05-25T02:05:11Z" finished-at="2020-05-25T02:05:14Z">
+      <class name="com.filetest.sampleTest">
+        <test-method status="PASS" signature="readData()[pri:0, instance:com.filetest.sampleTest@6276ae34]" name="readData" duration-ms="3438" started-at="2020-05-24T21:05:11Z" finished-at="2020-05-24T21:05:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ValidateFileformat -->
-      </class> <!-- com.filetest.Test1 -->
+        </test-method> <!-- readData -->
+      </class> <!-- com.filetest.sampleTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

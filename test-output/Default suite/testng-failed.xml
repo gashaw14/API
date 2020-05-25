@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.filetest.Test1">
+      <class name="com.filetest.sampleTest">
         <methods>
-          <include name="SetUp"/>
-          <include name="ValidateFileformat"/>
+          <include name="readData"/>
         </methods>
-      </class> <!-- com.filetest.Test1 -->
+      </class> <!-- com.filetest.sampleTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
